@@ -1,0 +1,22 @@
+/* .App {
+  text-align: center;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+.App-header{
+  text-align: center;
+  width: 100%;
+  position: static;
+  top: 0;
+}
+
+.App-title{
+  color: rgb(11, 3, 26);
+  font-size: 1.6em;
+}
+.App-title{
+  color: #143f47;
+  font-size: 1.8em;
+  padding: 0.4em;
+  font-family: 'Archivo Black', sans-serif;
+}
